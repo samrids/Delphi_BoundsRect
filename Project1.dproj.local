@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/18 07:31:21.000.330,=C:\Users\samrid.so\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/08/20 11:57:52.000.130,=C:\Users\samrid.so\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/08/20 13:21:47.000.713,=C:\Users\samrid.so\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/08/20 13:56:48.000.818,C:\Users\samrid.so\Documents\Embarcadero\Studio\Projects\Unit3.pas=D:\Awarasoft\Youtube_moveParentPosition\Screen\Unit3.pas</Transaction>
+    <Transaction>2022/08/20 13:56:48.000.818,C:\Users\samrid.so\Documents\Embarcadero\Studio\Projects\Unit3.dfm=D:\Awarasoft\Youtube_moveParentPosition\Screen\Unit3.dfm</Transaction>
+    <Transaction>2022/08/20 13:56:50.000.668,C:\Users\samrid.so\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Awarasoft\Youtube_moveParentPosition\Screen\Unit2.pas</Transaction>
+    <Transaction>2022/08/20 13:56:50.000.668,C:\Users\samrid.so\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\Awarasoft\Youtube_moveParentPosition\Screen\Unit2.dfm</Transaction>
+    <Transaction>2022/08/20 13:56:52.000.411,C:\Users\samrid.so\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Awarasoft\Youtube_moveParentPosition\Screen\Project1.dproj</Transaction>
+    <Transaction>2022/09/18 07:11:39.436,=D:\Awarasoft\Youtube_moveParentPosition\Screen\Unit1.pas</Transaction>
+    <Transaction>2022/09/18 08:55:17.095,D:\Awarasoft\Youtube_moveParentPosition\Screen\Unit3.pas=</Transaction>
+    <Transaction>2022/09/18 08:55:20.045,D:\Awarasoft\Youtube_moveParentPosition\Screen\Unit2.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
